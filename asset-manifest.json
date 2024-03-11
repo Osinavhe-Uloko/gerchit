@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.824c0412.css",
+    "main.js": "/static/js/main.17093fb0.js",
+    "static/media/meal.mp4": "/static/media/meal.cdbd6f563dc5a40bc48a.mp4",
+    "static/media/bg.png": "/static/media/bg.01ba9b569ba70d48a17a.png",
+    "static/media/welcome.png": "/static/media/welcome.43f497e0142104c84005.png",
+    "static/media/gallery03.png": "/static/media/gallery03.27663bd9016b72ccd328.png",
+    "static/media/findus.png": "/static/media/findus.656b4b08996496486da6.png",
+    "static/media/laurels.png": "/static/media/laurels.f84d5f90db93e9403ea3.png",
+    "static/media/chef.png": "/static/media/chef.9e0163d167821c7c6ae2.png",
+    "static/media/menu.png": "/static/media/menu.2c21aed22511156004dd.png",
+    "static/media/gallery10.png": "/static/media/gallery10.4f200c21277c751ca525.png",
+    "static/media/gallery05.png": "/static/media/gallery05.9b746219fc87ffa20126.png",
+    "static/media/overlaybg.png": "/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery01.png": "/static/media/gallery01.d9d5c3189a6fb02e92ec.png",
+    "static/media/gallery04.jpg": "/static/media/gallery04.36f08f526091db3ce123.jpg",
+    "static/media/gallery02.jpg": "/static/media/gallery02.2538cbf0b4595c16eae6.jpg",
+    "static/media/gallery09.jpg": "/static/media/gallery09.a0738b1e51a6747d732c.jpg",
+    "static/media/gallery07.jpg": "/static/media/gallery07.584e02041539a07ed58d.jpg",
+    "static/media/knife.png": "/static/media/knife.6623ab75ae4ebb170321.png",
+    "static/media/gallery06.jpg": "/static/media/gallery06.13150f225f1651667198.jpg",
+    "static/media/gallery08.jpg": "/static/media/gallery08.ef0cd338a41f79267b29.jpg",
+    "index.html": "/index.html",
+    "static/media/spoon.svg": "/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.824c0412.css.map": "/static/css/main.824c0412.css.map",
+    "main.17093fb0.js.map": "/static/js/main.17093fb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.824c0412.css",
+    "static/js/main.17093fb0.js"
+  ]
+}
